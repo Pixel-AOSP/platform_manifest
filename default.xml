@@ -12,9 +12,6 @@
            fetch="https://github.com/Pixel2-AOSP/"
            revision="refs/heads/pie-release" />
 
-  <remote  name="fdroid"
-           fetch="https://gitlab.com/fdroid/" />
-
   <remote  name="prepare-vendor"
            fetch="https://github.com/anestisb/"
            revision="master" />
