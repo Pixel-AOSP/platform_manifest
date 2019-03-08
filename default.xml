@@ -4,13 +4,13 @@
   <remote  name="aosp"
            fetch="https://android.googlesource.com"
            review="https://android-review.googlesource.com/" />
-  <default revision="refs/tags/android-9.0.0_r31"
+  <default revision="refs/tags/android-9.0.0_r34"
            remote="aosp"
            sync-j="4" />
 
   <remote  name="github"
-           fetch="https://github.com/Pixel2-AOSP/"
-           revision="refs/heads/9.0.0_0205" />
+           fetch="https://github.com/Pixel-AOSP/"
+           revision="refs/heads/9.0.0_0305" />
 
   <remote  name="prepare-vendor"
            fetch="https://github.com/anestisb/"
