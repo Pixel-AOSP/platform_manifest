@@ -10,7 +10,7 @@
 
   <remote  name="github"
            fetch="https://github.com/Pixel-AOSP/"
-           revision="refs/heads/9.0.0_0305" />
+           revision="refs/heads/9.0.0_0306" />
 
   <remote  name="prepare-vendor"
            fetch="https://github.com/anestisb/"
